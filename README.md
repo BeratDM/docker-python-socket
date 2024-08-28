@@ -1,4 +1,4 @@
-```markdown
+
 # Python Socket Programming Docker Project
 
 This project demonstrates a simple socket programming example using Python, containerized with Docker.
